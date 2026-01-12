@@ -44,8 +44,8 @@ I’m a software engineering student who loves exploring new ideas and turning t
 
 
 **Embedded:**  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?logo=Raspberry-Pi&logoColor=white)
 
 
 
